@@ -1,0 +1,25 @@
+
+**Metadata**
+
+This dataset contains a total of 20 columns.
+
+country: Name of the country	
+year: Year in consideration	
+iso_code: ISO Code that uniquely identifies the country	
+population: Number of people living in the country	
+gdp: Total GDP of the country	
+cement_co2: CO2 emissions from cement industry (Million tonnes)	
+co2: Total CO2 (excluding land usage) (Million tonnes)	
+co2_including_luc: Total CO2 (including land usage) (Million tonnes) 	
+coal_co2: CO2 emissions from coal industry (Million tonnes)	
+consumption_co2: Consumption based CO2 (Million tonnes)	
+flaring_co2: CO2 emissions from burning (Million tonnes)	
+gas_co2: CO2 emissions from Natural gas (Million tonnes)	
+land_use_change_co2: Total CO2 emissions from land usage (million tonnes)	
+oil_co2: CO2 emissions from Oil (Million tonnes)	
+other_industry_co2: CO2 emissions from other sources (million tonnes)	
+temperature_change_from_ch4: From Methane	
+temperature_change_from_co2: From Carbon di Oxide	
+temperature_change_from_ghg: From Greenhouse gases	
+temperature_change_from_n2o: From Nitrous oxide	
+total_ghg: Total greenhouse gases	
